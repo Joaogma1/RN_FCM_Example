@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "668078324517",
+    "firebase_url": "https://pushtest-8528c.firebaseio.com",
+    "project_id": "pushtest-8528c",
+    "storage_bucket": "pushtest-8528c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668078324517:android:0d081fe627f9f78e70b8cc",
+        "android_client_info": {
+          "package_name": "com.pushtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668078324517-6362gbu0vupi4kaoo4f9fral5splu4i1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqfhKviYNUocDA1uMKiuQ4njdfVAC7USM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668078324517-6362gbu0vupi4kaoo4f9fral5splu4i1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "668078324517-vsg2n3qotda33utaq370ju542litcdvl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.NotifyTest97"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
